@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col h-full mx-auto">
     <h1
-      class="font-semibold font-['Inter'] text-8xl md:text-[7rem] text-center flex-grow md:mt-12 self-start mt-[2rem] lg:mt-16 lg:text-[10rem]"
+      class="font-semibold font-['Inter'] text-8xl md:text-[7rem] text-center flex-grow md:mt-12 self-start mt-[2rem] lg:mt-16 lg:text-[10rem] mx-auto"
     >
       Cookie<wbr />Chat
     </h1>
