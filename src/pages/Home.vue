@@ -11,9 +11,12 @@
       Sign in with Google
     </button>
     <button
-      class="self-end text-center lg:text-lg m-auto mb-[2rem] lg:mb-[4rem] py-1 lg:py-2 lg:border-8 border-4 border-black w-80 lg:w-[40rem] mt-2 lg:mt-4 rounded-lg lg:rounded-xl bg-[#f3d9a5] md:mt-3 md:w-[30rem] md:py-1.5 md:mb-4 md:border-[6px] md:text-lg"
+      class="self-end text-center lg:text-lg m-auto mb-2 lg:mb-[2rem] py-1 lg:py-2 lg:border-8 border-4 border-black w-80 lg:w-[40rem] mt-2 lg:mt-4 rounded-lg lg:rounded-xl bg-[#f3d9a5] md:mt-3 md:w-[30rem] md:py-1.5 md:mb-1 md:border-[6px] md:text-lg"
     >
       Sign in with Apple
     </button>
+    <a class="mx-auto text-center mb-2 underline lg:mb-4 md:mb-3"
+      >Or continue without an account</a
+    >
   </div>
 </template>
