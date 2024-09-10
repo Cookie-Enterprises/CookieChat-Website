@@ -16,6 +16,6 @@ const router = createRouter({
       component: CookieFeed,
     },
   ],
-  history: createWebHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
 });
 createApp(App).use(router).mount("#app");
