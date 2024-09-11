@@ -15,8 +15,10 @@
     >
       Sign in with Apple
     </button>
-    <a class="mx-auto text-center mb-2 underline lg:mb-4 md:mb-3"
-      >Or continue without an account</a
+    <RouterLink
+      to="/feed"
+      class="mx-auto text-center mb-2 underline lg:mb-4 md:mb-3"
+      >Or continue without an account</RouterLink
     >
   </div>
 </template>
